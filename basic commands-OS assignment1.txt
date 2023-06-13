@@ -1,0 +1,115 @@
+SHELL BASIC COMMANDS
+a)COMMANDS FOR HELP
+1.man-shows the help manual.
+	syntax-$man ls(this shows the manual page for the ls command)
+	$man-k(to search)
+2.which-shows the location of a command
+	syntax-$ which ls(shows the location of the command ls)
+3.help-shows quick help for  any command
+	syntax-ls---help(will show  quick help for command ls)
+3.ctrl+c -stops the current program or terminated the current command.
+	It does not exist in the vi text editor.
+4.:q!-Quit the text editor without saving.
+
+b)LOGGING IN AND OUT COMMANDS
+5.logout-to exit the current login shell
+	shortcut-ctrl+D
+6.passwd-to change your password
+	syntax-$passwd
+7.sudo-This command is used when executing commands such as editing system 
+	files or running powerful commands all of which can be done only
+	by  a superuser.
+	syntax-$sudo /etc/mord/-(to edit the file/etc/mord/ which only super-
+	users have access to.
+8.SSH-used when you want to connect to another server.This command creates 
+	a new session and prompts you to log in
+	syntax-$ssh dave@example.com(will open a connection to example.com 
+	and let you log in as user dave.)
+c)COMMANDS TO MOVE AROUND THE FILE SYSTEM
+cd-meaning change directory.Used to change the current directory(folder)
+	syntax-$cd mydocs(will allow you to change the directory mydocs)
+9.ls-used to list fils in a directory
+	syntax-$ls(to list all files in current directory)
+	$ls-al(lists all files including hidden files,shows their permissions and who owns them.
+	$ls-alrt(lists all files including hidden files ordering by most recent at the bottom.)
+10.mkdir-Makes or creates a new directory or folder
+	syntax:$mkdir songs(will create a directory called songs)
+11.pwd-print current directory.
+	syntax -$pwd
+12.cp-used to copy files and directories
+	syntax-$cp money.txt money.bak(copys the contents of money.txt to money.bak)
+	$cp-rp songs songs2(copys the contents of the directory songs to songs2)
+13.rm-to delete files
+	syntax-$rm myfile.txt(deletes myfile.txt)
+	$rm-rf sounds(deletes the directory called sounds)
+d)COMMANDS TO FIND,VIEW AND EDIT FILES
+14.cat-to print /display contents of a file
+	syntax-$cat myfile.txt
+15.chmod-used to change the permissions of a file or directory.
+	syntax-$chmod 755 myscript.sh(grants all permissions to user and executes only to groups and others)
+	$chmod u+x myscript.sh-(allows the user to execute myscript.sh and perform no other changes)
+16.chown-used to change owner and group of a file or directory
+	syntax-$chown dave:staff accounts.txt(to change the owner to dave and group to staff on the file
+	accounts.txt)
+17.diff-shows the difference between two files
+	syntax:$diff nyc.txt london.txt(prints the difference between two files)
+18.file-shows the type of file
+	syntax-$file mytext.mp3
+19.less-used to browse the contents of a file
+	syntax-$less myfile.txt
+20.locate-find files with names matching a pattern
+	syntax-$locate httpd.conf(to find the loction of any file called http.conf)
+21.tail-prints the last few lines of a file.
+	syntax-$tail-f server.log(the f adds  to allow you to follow the file meaning any new lines will be 
+	printed to the screen too.)
+22.touch-used to create a new file or update an existing one
+	syntax-touch myfile.txt
+23.nano-interactive file editor
+	syntax-$nano myfile.txt(allows you to open the file and write in it)
+24.vim-also an interactive text editor like nano though it is more complex
+	syntax-$vim mydocs.txt
+e)COMMANDS TO INSTALL PROGRAMS
+25.dnf(dandified yum)-used to install and manage packages
+	syntax:dnf install curl(installs a package called curl from the online repositories)
+26.list-to list all packages installed on your system.
+	syntax:$list installed
+27.apt-install and manage packages in RHEL/fedora
+	syntax:$sudo apt install curl(installs a package called curl from the online repositories)
+	$sudo apt remove curl(it will uninstall curl)
+f)COMMANDS TO MANAGE PROCESSES
+28.kill-to terminate process
+	syntax:$kill (name of process to terminate)
+29.top-show the top process
+	syntax-$top
+30.ps-prints a list of currently running processes and their IDs and how much resources they are using
+	syntax-$ps(lists all your processes)
+	$ps-ef |grep java(lists all processes matching the string java)
+31.crtl+z-this is not a command but a good keyboard shortcut used to pause a program if it is running
+	in the foreground so that ypu can run something else.
+32.fg-resumes a process paused by ctrl+z
+	syntax:$fg
+33.jobs-lists all active jobs and processes
+	syntax:$jobs
+g)SYSTEM MANAGEMENT COMMANDS
+34.df-used to show free disk space
+	syntax-$df-h(shows free disk space with human readable sizes)
+35.du-shows how much space your files and folders are taking up
+	syntax-du-h-d 1/(show disk usage in human-readable sizes of all top-level directories)
+36.shutdown-used  to halt or reboot your machine
+	syntax-$shutdown-r now(reboots the system now)
+37.uname-shows information about the linux kernel
+	syntax-$uname-a
+38.uptime-shows how long the system has been running.
+	syntax-$uptime
+39.date-show the current date and time
+	syntax-$date
+h)NETWORKING
+40.curl-used to get a web page or API
+	syntax-$www.google.com(fetchs the google homepage and prints the contents)
+	$curl-o index.html www.google.com(fetchs the google home page and saves the HTML to a file
+41.dig-looks up DNS information (DNS is how to translate domain names into IP addresses and much more)
+	syntax-$dig +short A reddit.com
+42.ip addr-shows your network configuration.It prints your IP address
+	syntax-$ip addr
+43.ping-checks to see if the server is alive
+	syntax-$ping www.dantekay5.com(used to see if the server is responding)	
