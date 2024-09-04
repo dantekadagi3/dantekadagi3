@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](your-github-url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=web)](your-portfolio-url)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantekadagi3)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantekadagi3&theme=github_dark&show_icons=true)
 
 <!---
 dantekadagi3/dantekadagi3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
