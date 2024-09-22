@@ -24,6 +24,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+##Coding Challenges
+https://www.codewars.com/users/dantekadagi3/badges/large
 ---
 
 🚀 **Let's Build Something Amazing Together!**
