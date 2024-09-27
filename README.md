@@ -2,7 +2,7 @@
 ### Hi there, I'm Dante! 👋<br><br>- 
 👀 **I am a Philomath** — a lover of learning and knowledge.<br>
 - 🎨 **Designing, videography, and coding** are my passions; they come naturally to me.<br>
-- 🌱 **Currently Learning**: Flutter development, sharpening my MERN stack skills, mastering Data Structures & Algorithms, and diving into Artificial Intelligence.<br>
+- 🌱 **Currently Learning**: Flutter development, sharpening my MERN stack skills, mastering Data Structures & Algorithms, and also taking a keen interest in MLOps .<br>
 - 💞️ **Open to Collaborations** on exciting projects where I can contribute my skills and learn from others.<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
