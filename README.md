@@ -10,6 +10,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=web)](your-portfolio-url)
 
 
+[![An image of @dantekadagi3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dantekadagi3)](https://holopin.io/@dantekadagi3)
+
+
 
 
 # 💻 Tech Stack:
