@@ -4,6 +4,7 @@
 - 🎨 **Designing, videography, and coding** are my passions; they come naturally to me.<br>
 - 🌱 **Currently Learning**: Flutter development, sharpening my MERN stack skills, mastering Data Structures & Algorithms, and also taking a keen interest in MLOps .<br>
 - 💞️ **Open to Collaborations** on exciting projects where I can contribute my skills and learn from others.<br>
+-My last pin is always my flutter weekly challenge 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](your-github-url)
