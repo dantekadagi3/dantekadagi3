@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](your-github-url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=web)](your-portfolio-url)
+##Holopin
+Click the image  to visit my holopin profile
 
 
 [![An image of @dantekadagi3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dantekadagi3)](https://holopin.io/@dantekadagi3)
