@@ -2,7 +2,7 @@
 ### Hi there, I'm Dante! 👋<br><br>- 
 👀 **I am a Philomath** — a lover of learning and knowledge.<br>
 - 🎨 **Designing, videography, and coding** are my passions; they come naturally to me.<br>
-- 🌱 **Currently Learning**: Flutter development, sharpening my MERN stack skills, mastering Data Structures & Algorithms, and also taking a keen interest in Automotive software development .<br>
+- 🌱 **Currently Learning**: Flutter development, sharpening my MERN stack skills, mastering Data Structures & Algorithms, and also taking a keen interest in Automotive software development.<br>
 - 💞️ **Open to Collaborations** on exciting projects where I can contribute my skills and learn from others.<br>
 - My last pin is always my flutter weekly challenge 
 
